@@ -55,7 +55,6 @@ npm run dev
 
 Visit http://localhost:5173 to explore the app in your browser.
 
-
 🙌 Acknowledgements
 Thanks to The Movie Database (TMDB) for providing the public API to fuel this project.
 

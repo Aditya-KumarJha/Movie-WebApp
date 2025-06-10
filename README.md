@@ -1,12 +1,53 @@
-# React + Vite
+# 🎬MovieFinderMovieVerse - Explore Movies & Web Series
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**MovieFinder** is a fully responsive, modern web application built using **ReactJS** and **Redux**, allowing users to explore a vast collection of **movies and TV shows**. Integrated with the powerful **TMDB API**, MovieFinder offers dynamic content such as ratings, trailers, streaming availability, and more.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🔥 Browse **Trending**, **Popular**, and **Latest** movies & web series  
+- 📖 View **detailed info**: overview, genres, release date, runtime, and tagline  
+- 🎞️ Watch **trailers** directly from YouTube  
+- 🌐 External links to **IMDB**, **WikiData**, and official **homepages**  
+- 📺 Discover where to **stream, rent, or buy** via OTT platforms  
+- 🈳 See **available translations** for global reach  
+- ⚡ Smooth **loading states** and **nested routing** for better navigation  
+- 💡 Fully **responsive** powered by Tailwind CSS  
+- 🧠 Built with **Redux Toolkit** for powerful state management  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Tool          | Description                                 |
+|---------------|---------------------------------------------|
+| ReactJS       | Core frontend library                       |
+| Redux Toolkit | Efficient state management                  |
+| React Router  | Seamless page navigation & nested routing   |
+| TailwindCSS   | Utility-first modern CSS framework          |
+| Axios         | API integration for data fetching           |
+| TMDB API      | Real-time movie & TV series metadata        |
+| Remix Icon    | Icon library for UI elements                |
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Aditya-KumarJha/Movie-WebApp.git
+cd Movie-WebApp
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the development server
+npm run dev
+Visit http://localhost:5173 to explore the app in your browser.
+
+🙌 Acknowledgements
+Thanks to The Movie Database (TMDB) for providing the public API to fuel this project.
+
+👨‍💻 Author
+Built with ❤️ by Aditya Kumar Jha

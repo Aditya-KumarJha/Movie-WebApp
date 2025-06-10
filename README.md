@@ -1,4 +1,4 @@
-# 🎬MovieFinderMovieVerse - Explore Movies & Web Series
+# 🎬 MovieFinderMovieVerse - Explore Movies & Web Series
 
 **MovieFinder** is a fully responsive, modern web application built using **ReactJS** and **Redux**, allowing users to explore a vast collection of **movies and TV shows**. Integrated with the powerful **TMDB API**, MovieFinder offers dynamic content such as ratings, trailers, streaming availability, and more.
 
@@ -34,17 +34,27 @@
 
 ## 📦 Installation & Setup
 
-```bash
+
 # 1. Clone the repository
+```bash
 git clone https://github.com/Aditya-KumarJha/Movie-WebApp.git
+```
+```bash
 cd Movie-WebApp
+```
 
 # 2. Install dependencies
+```bash
 npm install
+```
 
 # 3. Start the development server
+```bash
 npm run dev
+```
+
 Visit http://localhost:5173 to explore the app in your browser.
+
 
 🙌 Acknowledgements
 Thanks to The Movie Database (TMDB) for providing the public API to fuel this project.

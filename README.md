@@ -2,6 +2,11 @@
 
 **MovieFinder** is a fully responsive, modern web application built using **ReactJS** and **Redux**, allowing users to explore a vast collection of **movies and TV shows**. Integrated with the powerful **TMDB API**, MovieFinder offers dynamic content such as ratings, trailers, streaming availability, and more.
 
+🔗 **Live Demo:** [movie-web-app-tan.vercel.app](https://movie-web-app-tan.vercel.app)
+
+💻 **Best Viewed On Desktop**  
+_For the full experience with trailers, hover effects, and detailed UI — we recommend opening this app on a **desktop browser**._
+
 ---
 
 ## 🌟 Features

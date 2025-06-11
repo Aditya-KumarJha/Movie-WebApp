@@ -12,8 +12,9 @@
 - 🌐 External links to **IMDB**, **WikiData**, and official **homepages**  
 - 📺 Discover where to **stream, rent, or buy** via OTT platforms  
 - 🈳 See **available translations** for global reach  
+- 🙋‍♂️ Explore **People profiles** with biography, known aliases, birthday, popularity & more  
+- 🎬 View **movie credits, TV credits**, and **combined credits** of actors/directors
 - ⚡ Smooth **loading states** and **nested routing** for better navigation  
-- 💡 Fully **responsive** powered by Tailwind CSS  
 - 🧠 Built with **Redux Toolkit** for powerful state management  
 
 ---

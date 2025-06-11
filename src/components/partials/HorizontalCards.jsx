@@ -8,7 +8,7 @@ const HorizontalCards = ({data}) => {
                     <Link to={`/${d.media_type}/details/${d.id}`} key={i} className='min-w-[20%] h-[35vh] bg-zinc-900 mr-5 mb-5 rounded'>
                         <img 
                             className='w-full h-[55%] object-cover'
-                            src={`https://image.tmdb.org/t/p/original${d.backdrop_path || d.poster_path}`} 
+                            src={d.backdrop_path || d.poster_path ? `https://image.tmdb.org/t/p/original${d.backdrop_path || d.poster_path}`: "/noimage.jpg"} 
                             alt="" />
                         <div className='text-white p-3 h-[45%] overflow-y-auto'>
                             <h1 className='text-xl font-semibold'>{

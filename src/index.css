@@ -48,7 +48,7 @@ select::-ms-expand {
     line-height: 3;
     background: #27272a;
     overflow: hidden;
-    border-radius: 0,25em;
+    border-radius: 0.25em;
 }
 
 .select::after {
